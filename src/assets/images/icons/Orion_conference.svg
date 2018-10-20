@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Conference</title>
+  <desc>A line styled icon from Orion Icon Library.</desc>
+  <circle data-name="layer2"
+  cx="50" cy="9" r="6" fill="none" stroke="#202020" stroke-miterlimit="10"
+  stroke-width="2" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <path data-name="layer2" d="M44 41v13a3 3 0 0 0 3 3h6a3 3 0 0 0 3-3V41h3a3 3 0 0 0 3-3V24a3 3 0 0 0-3-3H41a3 3 0 0 0-3 3v1"
+  fill="none" stroke="#202020" stroke-miterlimit="10" stroke-width="2" stroke-linejoin="round"
+  stroke-linecap="round"></path>
+  <circle data-name="layer2" cx="14" cy="9" r="6" fill="none" stroke="#202020"
+  stroke-miterlimit="10" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <path data-name="layer2" d="M26 24a3 3 0 0 0-3-3H5a3 3 0 0 0-3 3v14a3 3 0 0 0 3 3h3v13a3 3 0 0 0 3 3h6a3 3 0 0 0 3-3V41"
+  fill="none" stroke="#202020" stroke-miterlimit="10" stroke-width="2" stroke-linejoin="round"
+  stroke-linecap="round"></path>
+  <circle data-name="layer1" cx="32" cy="13" r="6" fill="none" stroke="#202020"
+  stroke-miterlimit="10" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <path data-name="layer1" d="M41 25H23a3 3 0 0 0-3 3v14a3 3 0 0 0 3 3h3v13a3 3 0 0 0 3 3h6a3 3 0 0 0 3-3V45h3a3 3 0 0 0 3-3V28a3 3 0 0 0-3-3z"
+  fill="none" stroke="#202020" stroke-miterlimit="10" stroke-width="2" stroke-linejoin="round"
+  stroke-linecap="round"></path>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Settings</title>
+  <desc>A line styled icon from Orion Icon Library.</desc>
+  <circle data-name="layer2"
+  cx="32.106" cy="32.035" r="14" fill="none" stroke="#202020" stroke-linecap="round"
+  stroke-miterlimit="10" stroke-width="2" stroke-linejoin="round"></circle>
+  <path data-name="layer1" d="M60.2 27.264l-4.908-1.27a23.845 23.845 0 0 0-2.534-6.086l2.606-4.426a2.4 2.4 0 0 0-.371-2.915l-3.411-3.411a2.4 2.4 0 0 0-2.915-.371l-4.423 2.6a23.848 23.848 0 0 0-6.1-2.54L36.842 3.8A2.4 2.4 0 0 0 34.518 2h-4.825a2.4 2.4 0 0 0-2.323 1.8l-1.3 5.028a23.843 23.843 0 0 0-6.141 2.544L15.408 8.71a2.4 2.4 0 0 0-2.915.371l-3.412 3.412a2.4 2.4 0 0 0-.371 2.915l2.662 4.52a23.848 23.848 0 0 0-2.512 6.027L3.8 27.264A2.4 2.4 0 0 0 2 29.588v4.825a2.4 2.4 0 0 0 1.8 2.323l5.02 1.3a23.846 23.846 0 0 0 2.571 6.21l-2.6 4.423a2.4 2.4 0 0 0 .371 2.915l3.412 3.412a2.4 2.4 0 0 0 2.915.371l4.426-2.607a23.845 23.845 0 0 0 6.2 2.565L27.37 60.2a2.4 2.4 0 0 0 2.323 1.8h4.825a2.4 2.4 0 0 0 2.324-1.8l1.267-4.9a23.85 23.85 0 0 0 6.154-2.563l4.329 2.549a2.4 2.4 0 0 0 2.915-.371l3.412-3.412a2.4 2.4 0 0 0 .371-2.915l-2.549-4.329A23.845 23.845 0 0 0 55.332 38l4.869-1.26A2.4 2.4 0 0 0 62 34.413v-4.825a2.4 2.4 0 0 0-1.8-2.324z"
+  fill="none" stroke="#202020" stroke-linecap="round" stroke-miterlimit="10"
+  stroke-width="2" stroke-linejoin="round"></path>
+</svg>

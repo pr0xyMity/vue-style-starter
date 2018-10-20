@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Gameboy</title>
+  <desc>A line styled icon from Orion Icon Library.</desc>
+  <circle data-name="layer2"
+  cx="37" cy="51" r="2" fill="none" stroke="#202020" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2"></circle>
+  <circle data-name="layer2" cx="45" cy="47" r="2" fill="none"
+  stroke="#202020" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <path data-name="layer2" fill="none" stroke="#202020" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M24 42v12m-6-6h12"></path>
+  <path data-name="layer1" fill="none" stroke="#202020" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M20 10h24v24H20z"></path>
+  <rect data-name="layer1" x="12" y="2" width="40" height="60" rx="2"
+  ry="2" fill="none" stroke="#202020" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></rect>
+</svg>

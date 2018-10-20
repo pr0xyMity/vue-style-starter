@@ -1,0 +1,35 @@
+/* _-_-_- base/TYPOGRAPHY -_-_-_ */
+
+/**
+ * @license
+ * MyFonts Webfont Build ID 3658041, 2018-10-19T15:36:43-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Acre-Medium by Jonathan Ball
+ * URL: https://www.myfonts.com/fonts/jonathan-ball/acre/medium/
+ * Copyright: Copyright &#x00A9; 2016 by Jonathan Ball. All rights reserved.
+ * Licensed pageviews: Unlimited
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3658041
+ * 
+ * © 2018 MyFonts Inc
+*/
+
+@font-face {
+    font-family: 'Acre', 'sans-serif';
+    src: url('~@/assets/fonts/Acre/Acre.eot');
+    src: url('~@/assets/fonts/Acre/Acre.eot?#iefix') 
+            format('embedded-opentype'), 
+        url('~@/assets/fonts/Acre/Acre.woff2') 
+            format('woff2'), 
+        url('~@/assets/fonts/Acre/Acre.woff') 
+            format('woff'), 
+        url('~@/assets/fonts/Acre/Acre.ttf') 
+            format('truetype');
+}

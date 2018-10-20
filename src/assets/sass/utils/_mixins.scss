@@ -1,0 +1,38 @@
+/*
+  0 - 600px       Phone
+  600 - 900px     Tablet portrait
+  900 - 1200px    Tablet landscape
+  [1200 - 1800]   Normal styles
+  1800px +        Big desktop
+
+  Breakponit argument choices:
+  - phone
+  - tab-port
+  - tab-land
+  - big-desktop
+*/
+  
+@mixin respond($breakpoint) {
+    @if $breakpoint == phone {
+        @media (max-width: 37.5em) { @content }; // 600px
+    }
+    @if $breakpoint == tab-port {
+        @media (max-width: 56.25em) { @content }; // 900px
+    }
+    @if $breakpoint == tab-land {
+        @media (max-width: 75em) { @content }; // 1200px
+    }
+    @if $breakpoint == big-desktop {
+        @media (min-width: 125em) { @content }; // 2000 + px
+    }
+  }
+  
+
+//   Other mixins
+
+@mixin flex($align_items, $justify_content, $flex_direction) {
+    display:            flex;
+    align-items:        $align_items;
+    justify-content:    $justify_content;
+    flex-direction:     $flex_direction;
+}
