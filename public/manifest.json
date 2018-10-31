@@ -1,6 +1,6 @@
 {
-  "name": "MultiZone",
-  "short_name": "MZ",
+  "name": "VueStarter",
+  "short_name": "VS",
   "icons": [
     {
       "src": "/img/icons/android-chrome-192x192.png",

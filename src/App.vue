@@ -11,4 +11,7 @@
 <style lang="scss">
 @import '@/assets/sass/main.scss';
 
+#app {
+  text-align: center;
+}
 </style>

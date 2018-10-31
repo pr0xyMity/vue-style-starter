@@ -12,11 +12,3 @@ describe('HelloWorld.vue', () => {
     expect(wrapper.text()).toMatch(msg)
   })
 })
-
-describe('Home.vue', () => {
-  test('Tests are working', () => {
-    const Ctor = Vue.extend(Home)
-    const vm = new Ctor().$mount()
-      expect(vm.$el.textContent).toContain('item');
-  })
-})
