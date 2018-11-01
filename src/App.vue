@@ -4,6 +4,7 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
+    <img src="../public/img/icons/android-chrome-192x192.png" height="120px" alt="">
     <router-view/>
   </div>
 </template>
@@ -13,5 +14,8 @@
 
 #app {
   text-align: center;
+  height: 100vh;
+  width: 100%;
+  @include flex(center, center, column)
 }
 </style>

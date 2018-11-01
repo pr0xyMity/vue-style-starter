@@ -1,8 +1,6 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/images/logo/Logo.svg" height="40px">
-    <HelloWorld msg="Welcome to Vue Starter with all styles and responsivness"/>
-    
+    <HelloWorld msg="Welcome to Vue Starter with Scss and 7-1 architecture"/>
   </div>
 </template>
 
