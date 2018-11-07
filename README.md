@@ -14,7 +14,16 @@ For keeping also the template clean and easly readable I've used the <a href="ht
 
 ### Documentation
 
+The entire project works on css em's and rem's units. The base font size configuration can be found in _variables.scss file. Rem units are used for all measurements then media queries, one rem ( 1rem ) is calculated as 10px. It's not recommended to use static thats why we are using procentage values, which are taken from the web browser.
+<a href="https://ibb.co/kYx5Cq"><img src="https://preview.ibb.co/d5QE5A/carbon-2.png" width="450px" border="0"></a>
 
+The responsive part was build in _mixins.scss file. There is a media queries manager that helps with keeping all reactive and clean. We are using em's unit because it is recommended in media queries approach.
+
+<a href="https://ibb.co/kYx5Cq"><img src="https://image.ibb.co/jUz7QA/carbon.png" width="450px" border="0"></a>
+
+Here you can find an exaple how to use prepared media queries manager. This exapmple is already in the project and you can easily prepare your work for being resposive only by using rem's insted of commonly used px.
+
+<a href="https://ibb.co/hvfssq"><img src="https://image.ibb.co/iNY1kA/carbon-1.png" width="350px" border="0"></a><br /><a target='_blank' href='https://aluminumsulfate.net/aluminum'></a>
 
 ### License
 
