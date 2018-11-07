@@ -1,8 +1,6 @@
 <p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://raw.githubusercontent.com/konradovsky/Vue_Starter/master/public/img/icons/android-chrome-192x192.png" alt="Vue Starter logo"></a></p>
 <h2 align="center">Vue Style Starter</h2>
 
-## Information
-
 Vue Style Starter is a project made for vue designers who appreciate fully prepared and functional work enviroment. This project is based on <a href="https://cli.vuejs.org/" target="_blank" rel="noopener noreferrer">Vue CLI 3</a>.
 
 I'm using:
@@ -14,11 +12,11 @@ For style code maintenance I've used the 7-1 architecture, it provides a simple 
 
 For keeping also the template clean and easly readable I've used the <a href="https://en.bem.info/methodology/" target="_blank" rel="noopener noreferrer">BEM (Block Element Modifier) Metodology</a>. It really goes hand in hand with Scss.
 
-## Documentation
+### Documentation
 
 
 
-## License
+### License
 
 [MIT](http://opensource.org/licenses/MIT)
 
