@@ -10,20 +10,13 @@ install:
 before_script:
   - if [[ -n "$WEBPACK_VERSION" ]]; then npm install --no-save webpack@$WEBPACK_VERSION; fi
 stages:
-  - lint
   - test:unit
   - build
 jobs:
   include:
-    - stage: lint
-      script:
-        # Run linter
-        - npm run lint
     - stage: test:unit
       script:
-        # Run tests unit
         - npm run test:unit
     - stage: build
       script:
-        # Build all
         - npm run build
