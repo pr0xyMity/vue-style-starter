@@ -1,4 +1,11 @@
 <p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://raw.githubusercontent.com/konradovsky/Vue_Starter/master/public/img/icons/android-chrome-192x192.png" alt="Vue Starter logo"></a></p>
+
+<p align="center">
+  <a href="https://travis-ci.org/konradovsky/Vue_Style_Starter"><img src="https://travis-ci.org/konradovsky/Vue_Style_Starter.svg?branch=master" alt="Build Status"></a>
+  <a href="https://www.npmjs.com/package/vue"><img src="https://img.shields.io/npm/l/vue.svg" alt="License"></a>
+  <br>
+</p>
+
 <h2 align="center">Vue Style Starter</h2>
 
 Vue Style Starter is a project made for vue designers who appreciate fully prepared and functional work enviroment. This project is based on <a href="https://cli.vuejs.org/" target="_blank" rel="noopener noreferrer">Vue CLI 3</a>.
