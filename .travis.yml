@@ -5,27 +5,18 @@ node_js:
 env:
   - WEBPACK_VERSION=4
 install:
-  # Use npm 5.7.x since it has introduced `npm ci`
   - if [[ `npm -v` != 5.7* ]]; then npm install -g npm@'>=5.7.1'; fi
   - npm ci
 before_script:
-  # Install Webpack version
   - if [[ -n "$WEBPACK_VERSION" ]]; then npm install --no-save webpack@$WEBPACK_VERSION; fi
 stages:
-  - lint
   - test:unit
   - build
 jobs:
   include:
-    - stage: lint
-      script:
-        # Run linter
-        - npm run lint
     - stage: test:unit
       script:
-        # Run tests unit
         - npm run test:unit
     - stage: build
       script:
-        # Build all
         - npm run build
