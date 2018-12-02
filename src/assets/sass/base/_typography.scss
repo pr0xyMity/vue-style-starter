@@ -22,14 +22,7 @@
 */
 
 @font-face {
-    font-family: 'Acre', 'sans-serif';
+    font-family: 'Acre';
     src: url('~@/assets/fonts/Acre/Acre.eot');
-    src: url('~@/assets/fonts/Acre/Acre.eot?#iefix') 
-            format('embedded-opentype'), 
-        url('~@/assets/fonts/Acre/Acre.woff2') 
-            format('woff2'), 
-        url('~@/assets/fonts/Acre/Acre.woff') 
-            format('woff'), 
-        url('~@/assets/fonts/Acre/Acre.ttf') 
-            format('truetype');
+    src: url('~@/assets/fonts/Acre/Acre.eot?#iefix') format('embedded-opentype'), url('~@/assets/fonts/Acre/Acre.woff2') format('woff2'), url('~@/assets/fonts/Acre/Acre.woff') format('woff'), url('~@/assets/fonts/Acre/Acre.ttf') format('truetype');
 }
